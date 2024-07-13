@@ -1,0 +1,17 @@
+{
+  "name": "07.-exercise-js-advanced-unit-testing-and-error-handling-resources",
+  "version": "1.0.0",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.4.0"
+  }
+}
